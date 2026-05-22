@@ -30,10 +30,10 @@
 ---
 
 ## ⚙️ Технологический стек
-- Tilda Zero Block
-- Prompt Igineering  
+- Tilda (+ Zero Block)
+- OpenAI Responses API 
 - Telegram Bot API  
-- OpenAI Assistant
+- Prompt Igineering  
 - SEO-копирайтинг  
 - Grist  
 - n8n 
